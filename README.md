@@ -190,13 +190,25 @@ Por esta razón, los resultados obtenidos deben interpretarse como asociaciones 
 
 ## 10. Estructura del proyecto
 
+## 10. Estructura del proyecto
+
 ```text
 EP1_Machine_Learning_Grupo6/
 │
 ├── README.md
-├── EP1_Machine_Learning.ipynb
 │
 ├── data/
+│   └── Spotify_Tracks_Dataset.csv
+│
+├── notebooks/
+│   └── EP1_Machine_Learning.ipynb
+│
+├── models/
+│
+├── images/
+│
+└── docs/
+    └── EP1_Instrucciones_y_Pauta.pdf
 │   └── Spotify_Tracks_Dataset.csv
 │
 └── docs/
