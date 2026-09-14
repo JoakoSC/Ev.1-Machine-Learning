@@ -190,8 +190,6 @@ Por esta razón, los resultados obtenidos deben interpretarse como asociaciones 
 
 ## 10. Estructura del proyecto
 
-## 10. Estructura del proyecto
-
 ```text
 EP1_Machine_Learning_Grupo6/
 │
